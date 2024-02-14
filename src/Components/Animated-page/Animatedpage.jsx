@@ -19,7 +19,7 @@ const Animatedpage = () => {
     {/* left dv */}
     <div className="left flex flex-col  justify-center gap-7  sm:w-[50%] w-[100%] sm:h-[100%] h-[50%] px-[8vw] pl-[8vw]">
      <h1 className=' sm:text-5xl sm:max-md:text-4xl sm:max-md:w-[100%] text-4xl font-bold  sm:w-[90%] w-[100%]' data-aos="fade-down">Get the answers from the BOOK</h1>
-     <p className=' sm:text-xl sm:max-md:text-sm sm:max-md:w-[100%]  text-md font-semibold text-[#0000009d] w-[95%]' data-aos="fade-down" data-aos-delay="200"  data-aos-offset= "-400"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+     <p className=' sm:text-xl text- sm:max-md:text-sm sm:max-md:w-[100%]  text-md font-semibold text-[#0000009d] w-[95%]' data-aos="fade-down" data-aos-delay="200"  data-aos-offset= "-400"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
      {/* search box  */}
      <div className="searchbox flex items-center bg-[#0000004c] px-4 h-9 w-100 rounded-md gap-2"  data-aos="fade-down" data-aos-delay="400" data-aos-offset= "-400">
      <FaSearch className=' font-light text-[#0000009e]'/>
